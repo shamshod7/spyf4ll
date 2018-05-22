@@ -1,0 +1,89 @@
+{
+	"languages": [
+		"english", "german"
+	],
+	"english": {
+		"language_var": [
+			"english", "eng"
+		],
+		"locations_file": "spyf4ll_locations_eng.json",
+		"responses": {
+			"create_game": "Share this code with your friends",
+			"join_game": {
+				"notexist": "This game does not exist. Please use '/create' to create one or enter a valid game id.",
+				"noGame": "Usage: '/join xxxxx'",
+				"exists": "You joined the game."
+			},
+			"leave_game": "You left the game.",
+			"start_game": {
+				"noGame": "Please create or join a game first.",
+				"full": "Too many players!",
+				"less": "Please get at least 3 players.",
+				"spy": "spy",
+				"location": "Location",
+				"role": "Role",
+				"nrofplayers": "Number of Players"
+			},
+			"language": {
+				"invalid": "Invalid language entered.",
+				"nolanguage": "Usage: '/language english'",
+				"changed": "Language changed to english."
+			},
+			"help": {
+				"help": "Help",
+				"create": "Create a new game. Share the code with your friends.",
+				"join": "Join an existing game.",
+				"join_code": "code",
+				"leave": "Leave the game.",
+				"play": "Start a new game.",
+				"play_language": "language",
+				"list_locations": "List all locations.",
+				"language": "Change your language.",
+				"help2": "list all commands and descriptions."
+			},
+			"invalid": "Please enter a valid command. Use '/help' to get a list of all commands."
+		}
+	},
+	"german": {
+		"language_var": [
+			"german", "de", "deutsch", "ger"
+		],
+		"locations_file": "spyf4ll_locations_ger.json",
+		"responses": {
+			"create_game": "Teile diesen Code mit deinen Freunden",
+			"join_game": {
+				"notexist": "Dieses Spiel existiert nicht. Bitte gebe eine gültige Spiele ID ein oder benutze '/create', um ein neues Spiel zu erstellen.",
+				"noGame": "Benutzung: '/join xxxxx'",
+				"exists": "Du hast das Spiel betreten."
+			},
+			"leave_game": "Du hast das Spiel verlassen.",
+			"start_game": {
+				"noGame": "Bitte erstelle zunächst ein Spiel oder trete einem bestehenden Spiel bei.",
+				"full": "Zu viele Spieler!",
+				"less": "Weniger als 3 Spieler!",
+				"spy": "Spion",
+				"location": "Ort",
+				"role": "Rolle",
+				"nrofplayers": "Spielerzahl"
+			},
+			"language": {
+				"invalid": "Ungültige Sprache eingegeben.",
+				"nolanguage": "Benutzung: '/language deutsch'",
+				"changed": "Die Sprache wurde zu deutsch geändert."
+			},
+			"help": {
+				"help": "Hilfe",
+				"create": "Erstelle ein neues Spiel. Teile den Code mit deinen Freunden.",
+				"join": "Trete einem erstellten Spiel bei.",
+				"join_code": "Code",
+				"leave": "Verlasse ein Spiel",
+				"play": "Starte ein neues Spiel.",
+				"play_language": "Sprache",
+				"list_locations": "Listet alle Orte auf.",
+				"language": "Sprache ändern.",
+				"help2": "Liste alle Befehle und deren Beschreibung auf."
+			},
+			"invalid": "Bitte gib einen gültigen Befehl ein. Nutze '/help', um eine Liste aller Befehle zu erhalten."
+		}
+	}
+}

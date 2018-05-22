@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Flugzeug",
+    "roles": [
+      "Passagier, erste Klasse",
+      "Flugsicherheitsbegleiter",
+      "Mechaniker",
+      "Stewardess",
+      "Kopilot",
+      "Pilot",
+      "Passagier, zweite Klasse"
+    ]
+  },
+  {
+    "name": "Bank",
+    "roles": [
+      "Geldtransporterfahrer",
+      "Manager",
+      "Sachberater",
+      "Räuber",
+      "Sicherheitsbeamter",
+      "Kassenbeamter",
+      "Kunde"
+    ]
+  },
+  {
+    "name": "Strand",
+    "roles": [
+      "Kellnerin",
+      "Kitesurfer",
+      "Rettungsschwimmer",
+      "Dieb",
+      "Strandfotograf",
+      "Eiswagenfahrer",
+      "Strandbesucher"
+    ]
+  },
+  {
+    "name": "Kathedrale",
+    "roles": [
+      "Priester",
+      "Bettler",
+      "Sünder",
+      "Tourist",
+      "Sponsor",
+      "Chorknabe",
+      "Gemeindemitglied"
+    ]
+  },
+  {
+    "name": "Zirkuszelt",
+    "roles": [
+      "Akrobat",
+      "Tiertrainer",
+      "Zauberer",
+      "Feuerschlucker",
+      "Clown",
+      "Jongleur",
+      "Besucher"
+    ]
+  },
+  {
+    "name": "Firmenfeier",
+    "roles": [
+      "Entertainer",
+      "Manager",
+      "unerwünschter Gast",
+      "Inhaber",
+      "Sekretär",
+      "Lieferjunge",
+      "Buchhalter"
+    ]
+  },
+  {
+    "name": "Kreuzritter Armee",
+    "roles": [
+      "Mönch",
+      "eingesperrter Sarazen",
+      "Diener",
+      "Bischof",
+      "Knappe",
+      "Bogenschütze",
+      "Ritter"
+    ]
+  },
+  {
+    "name": "Kasino",
+    "roles": [
+      "Barkeeper",
+      "oberster Sicherheitsdienst",
+      "Türsteher",
+      "Manager",
+      "Gauner",
+      "Händler",
+      "Spieler"
+    ]
+  },
+  {
+    "name": "Kurort",
+    "roles": [
+      "Stylist",
+      "Masseuse",
+      "Maniküristin",
+      "Maskenbildner",
+      "Dermatologe",
+      "Kosmetikerin",
+      "Kunde"
+    ]
+  },
+  {
+    "name": "Botschaft",
+    "roles": [
+      "Sicherheitsbeamter",
+      "Sekretär",
+      "Botschafter",
+      "Tourist",
+      "Flüchtling",
+      "Diplomat",
+      "Regierungsbeamter"
+    ]
+  },
+  {
+    "name": "Krankenhaus",
+    "roles": [
+      "Krankenschwester",
+      "Arzt",
+      "Anästhesisologe",
+      "Praktikant",
+      "Therapeut",
+      "Chirurg",
+      "Patient"
+    ]
+  },
+  {
+    "name": "Hotel",
+    "roles": [
+      "Türsteher",
+      "Sicherheitsbeamter",
+      "Manager",
+      "Reinigungskraft",
+      "Barkeeper",
+      "Hotelpage",
+      "Kunde"
+    ]
+  },
+  {
+    "name": "Militärstützpunkt",
+    "roles": [
+      "Deserteur",
+      "Oberst",
+      "Sanitäter",
+      "Scharfschütze",
+      "Offizier",
+      "Panzertechniker",
+      "Soldat"
+    ]
+  },
+  {
+    "name": "Filmstudio",
+    "roles": [
+      "Stuntman",
+      "Tontechniker",
+      "Kameramann",
+      "Regisseur",
+      "Kostümdesigner",
+      "Produzent",
+      "Schauspieler"
+    ]
+  },
+  {
+    "name": "Kreuzfahrtschiff",
+    "roles": [
+      "Koch",
+      "Kapitän",
+      "Barkeeper",
+      "Musiker",
+      "Kellnerin",
+      "Mechaniker",
+      "reicher Passagier"
+    ]
+  },
+  {
+    "name": "Personenzug",
+    "roles": [
+      "Mechaniker",
+      "Grenzschutz",
+      "Zugbegleiter",
+      "Restaurantchef",
+      "Zugführer",
+      "Heizer",
+      "Passagier"
+    ]
+  },
+  {
+    "name": "Piratenschiff",
+    "roles": [
+      "Koch",
+      "Sklave",
+      "Kanoniere",
+      "gefesselter Gefangener",
+      "Schiffsjunge",
+      "tapferer Kapitän",
+      "Matrose"
+    ]
+  },
+  {
+    "name": "Polarstation",
+    "roles": [
+      "Sanitäter",
+      "Expeditionsleiter",
+      "Biologe",
+      "Stahlungsexperte",
+      "Hydrologe",
+      "Meteorologe",
+      "Geologe"
+    ]
+  },
+  {
+    "name": "Polizeistation",
+    "roles": [
+      "Detektiv",
+      "Anwalt",
+      "Journalist",
+      "Kriminalist",
+      "Archivar",
+      "Krimineller",
+      "Streifenpolizist"
+    ]
+  },
+  {
+    "name": "Restaurant",
+    "roles": [
+      "Musiker",
+      "Türsteher",
+      "Hostess",
+      "Küchenchef",
+      "Lebensmittelkritiker",
+      "Kellnerin",
+      "Kunde"
+    ]
+  },
+  {
+    "name": "Schule",
+    "roles": [
+      "Sportlehrer",
+      "Schulleiter",
+      "Sicherheitsbeamter",
+      "Hausmeister",
+      "Cafeteria Dame",
+      "Wartungstechniker",
+      "Schüler"
+    ]
+  },
+  {
+    "name": "Werkstatt",
+    "roles": [
+      "Manager",
+      "Reifenspezialist",
+      "Radfahrer",
+      "Autobesitzer",
+      "Autowaschanlage",
+      "Elektriker",
+      "Automechaniker"
+    ]
+  },
+  {
+    "name": "Raumstation",
+    "roles": [
+      "Ingenieur",
+      "Alien",
+      "Pilot",
+      "Kommandant",
+      "Wissenschaftler",
+      "Arzt",
+      "Weltraumtourist"
+    ]
+  },
+  {
+    "name": "U-Boot",
+    "roles": [
+      "Koch",
+      "Kommandant",
+      "Sonartechniker",
+      "Elektrotechniker",
+      "Funker",
+      "Navigator",
+      "Matrose"
+    ]
+  },
+  {
+    "name": "Supermarkt",
+    "roles": [
+      "Kassierer",
+      "Metzger",
+      "Hausmeister",
+      "Sicherheitsbeamter",
+      "Nahrungsmittelprobe Demonstrator",
+      "Regalbefüller",
+      "Kunde"
+    ]
+  },
+  {
+    "name": "Theater",
+    "roles": [
+      "Garderobenfrau",
+      "Souffleur",
+      "Kassierer",
+      "Direktor",
+      "Schauspieler",
+      "Techniker",
+      "Zuschauer"
+    ]
+  },
+  {
+     "name": "Universität",
+     "roles": [
+       "Doktorand",
+       "Professor",
+       "Dekan",
+       "Psychologe",
+       "Wartungstechniker",
+       "Hausmeister",
+       "Student"
+     ]
+   },
+   {
+     "name": "Zweiter Weltkrieg",
+     "roles": [
+       "Widerstandskämpfer",
+       "Funker",
+       "Aufklärer",
+       "Sanitäter",
+       "Koch",
+       "Inhaftierter Nazi",
+       "Soldat"
+     ]
+   }
+]
