@@ -1,10 +1,4 @@
 <?php
-//todo
-//Friedhof als Ort.. Rollen?
-//Ortauswahl möglich
-//Impressum mit testern
-//proportionale Rollen
-
 //setup database
 $servername = "localhost";
 $username = <username>;
