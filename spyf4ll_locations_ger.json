@@ -174,7 +174,7 @@
       "Kapitän",
       "Barkeeper",
       "Musiker",
-      "Kellnerin",
+      "Kellner",
       "Mechaniker",
       "reicher Passagier"
     ]
@@ -258,7 +258,7 @@
       "Reifenspezialist",
       "Radfahrer",
       "Autobesitzer",
-      "Autowaschanlage",
+      "Reinigungskraft",
       "Elektriker",
       "Automechaniker"
     ]
@@ -294,7 +294,7 @@
       "Metzger",
       "Hausmeister",
       "Sicherheitsbeamter",
-      "Nahrungsmittelprobe Demonstrator",
+      "Nahrungsmittelvertreter",
       "Regalbefüller",
       "Kunde"
     ]
@@ -324,7 +324,7 @@
      ]
    },
    {
-     "name": "Zweiter Weltkrieg",
+     "name": "Zweiter Weltkriegstrupp",
      "roles": [
        "Widerstandskämpfer",
        "Funker",

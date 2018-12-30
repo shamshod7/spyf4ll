@@ -22,13 +22,15 @@
 				"spy": "spy",
 				"location": "Location",
 				"role": "Role",
-				"nrofplayers": "Number of Players"
+				"nrofplayers": "Number of Players",
+				"firstTurn": "You got to ask the first Question."
 			},
 			"language": {
 				"invalid": "Invalid language entered.",
 				"nolanguage": "Usage: '/language english'",
 				"changed": "Language changed to english."
 			},
+			"rules": "https://boardgamegeek.com/boardgame/166384/spyfall",
 			"help": {
 				"help": "Help",
 				"create": "Create a new game. Share the code with your friends.",
@@ -38,8 +40,13 @@
 				"play": "Start a new game.",
 				"play_language": "language",
 				"list_locations": "List all locations.",
+				"list_group": "Show group id and number of players.",
 				"language": "Change your language.",
-				"help2": "list all commands and descriptions."
+				"rules": "Explanation of the game rules.",
+				"help2": "List all commands and descriptions."
+			},
+			"feedback": {
+				"thanks": "Thanks for your feedback!"
 			},
 			"invalid": "Please enter a valid command. Use '/help' to get a list of all commands."
 		}
@@ -64,13 +71,15 @@
 				"spy": "Spion",
 				"location": "Ort",
 				"role": "Rolle",
-				"nrofplayers": "Spielerzahl"
+				"nrofplayers": "Spielerzahl",
+				"firstTurn": "Du darfst die erste Frage stellen."
 			},
 			"language": {
 				"invalid": "Ungültige Sprache eingegeben.",
 				"nolanguage": "Benutzung: '/language deutsch'",
 				"changed": "Die Sprache wurde zu deutsch geändert."
 			},
+			"rules": "http://www.spielewiki.org/wiki/Spyfall",
 			"help": {
 				"help": "Hilfe",
 				"create": "Erstelle ein neues Spiel. Teile den Code mit deinen Freunden.",
@@ -80,8 +89,13 @@
 				"play": "Starte ein neues Spiel.",
 				"play_language": "Sprache",
 				"list_locations": "Listet alle Orte auf.",
+				"list_group": "Zeigt die Gruppen ID und Anzahl der aktuellen Spieler an.",
 				"language": "Sprache ändern.",
+				"rules": "Erklärung der Spielregeln.",
 				"help2": "Liste alle Befehle und deren Beschreibung auf."
+			},
+			"feedback": {
+				"thanks": "Danke für Dein Feedback!"
 			},
 			"invalid": "Bitte gib einen gültigen Befehl ein. Nutze '/help', um eine Liste aller Befehle zu erhalten."
 		}
